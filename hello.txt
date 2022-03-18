@@ -1,4 +1,4 @@
 hello amosie?hello git
 i
-hotfix
+hotfix master
 hello aaa master text hot fix test hotfix
